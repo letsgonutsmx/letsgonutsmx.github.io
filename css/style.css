@@ -255,7 +255,7 @@ button {
 }
 .bg-light {
     background-color: #ffffff!important;
-    border-bottom: 10px solid 0C1A1A;
+    border-bottom: 10px solid #0C1A1A;
     padding: 20px 15px;
 }
 .banner_section {
@@ -288,7 +288,7 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: 0C1A1A;
+    background-color: #0C1A1A;
     padding: 10px 0px;
     text-align: center;
 }
@@ -300,7 +300,7 @@ button {
     position: absolute;
     left: 535px;
     top: 88%;
-    background-color: 0C1A1A;
+    background-color: #0C1A1A;
 }
 #my_slider .carousel-control-prev, #my_slider .carousel-control-next {
     width: 65px;
@@ -313,7 +313,7 @@ button {
 }
 
 #my_slider .carousel-control-prev:hover, #my_slider .carousel-control-next:hover, #my_slider .carousel-control-prev:focus, #my_slider .carousel-control-next:focus {
-    background: 0C1A1A;
+    background: #0C1A1A;
     color: #fff;
 }
 #my_slider a.carousel-control-next {
@@ -388,7 +388,7 @@ button {
     float: left;
     font-size: 16px;
     color: #ffffff;
-    background-color: 0C1A1A;
+    background-color: #0C1A1A;
     padding: 10px 0px;
     text-align: center;
     margin-top: 30px;
@@ -455,7 +455,7 @@ button {
     bottom: -50px;
 }
 .template_section .carousel-indicators .active {
-    background-color: 0C1A1A;
+    background-color: #0C1A1A;
 }
 .mail_text {
     width: 100%;
@@ -490,7 +490,7 @@ button {
     font-size: 20px;
     color: #ffffff;
     text-align: center;
-    background-color: 0C1A1A;
+    background-color: #0C1A1A;
     padding: 10px 0px;
     text-transform: uppercase;
     margin-top: 40px;
@@ -566,7 +566,7 @@ button {
 .menus_left {
     width: 33.3%;
     float: left;
-    border-left: 2px solid 0C1A1A;
+    border-left: 2px solid #0C1A1A;
 }
 .menus_middle{
     width: 33.3%;
@@ -666,7 +666,7 @@ button {
     color: #171717;
 }
 .copyright_text a:hover{
-    color: 0C1A1A;
+    color: #0C1A1A;
 }
 .margin_top0{
     margin-top: 90px;
