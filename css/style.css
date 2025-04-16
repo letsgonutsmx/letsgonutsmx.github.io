@@ -757,7 +757,7 @@ button {
 }
 
 @media (max-width: 767px) {
-    .banner_taital { font-size: 36px; } /* Smaller text on mobile */
+    .banner_taital { font-size: 28px; } /* Smaller text on mobile */
     .navbar-nav { text-align: center; } /* Center-align mobile menu */
     .search_icon { 
       display: block; 
